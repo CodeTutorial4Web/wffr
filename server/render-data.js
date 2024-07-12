@@ -233,7 +233,7 @@ function view(index) {
         productContainer. innerHTML = `
         
         <div class="close-product-btn" onclick="closeProduct()">
-        x
+            <i class="fas fa-xmark"></i>
         </div>
 
         <div class="image-container">
