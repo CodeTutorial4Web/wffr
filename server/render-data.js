@@ -233,7 +233,7 @@ function view(index) {
         productContainer. innerHTML = `
         
         <div class="close-product-btn" onclick="closeProduct()">
-            <i class="fas fa-xmark"></i>
+        <i class="fas fa-xmark"></i>
         </div>
 
         <div class="image-container">
@@ -255,7 +255,7 @@ function view(index) {
 
           <div class="price-get-it-tomorrow">
             <span class="price">$${finalArray[index].price}</span>
-            <div class="get-it-tomorrow-order-noe">
+            <div class="get-it-tomorrow-order">
               <span class="get-it-tomorrow">Order It Now And Get It Tomorrow</span>
               <button class="add-to-cart" onclick="addToCart(${index})">Add to Cart</button>
             </div>
