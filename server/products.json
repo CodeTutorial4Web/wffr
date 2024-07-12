@@ -1,0 +1,296 @@
+{
+  "all": [
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 1",
+      "price": "70",
+      "rating": "3.7",
+      "pieces": 7,
+      "sale": "10% discount",
+      "ratedProduct": 700    
+
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 2",
+      "price": "2700",
+      "rating": "4.3",
+      "pieces": 7,
+      "sale": null,    
+      "ratedProduct": 5100    
+
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 3",
+      "price": "899",
+      "rating": "4.8",
+      "pieces": 4,
+      "sale": "10% discount",  
+      "ratedProduct": 4500    
+
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 4",
+      "price": "24",
+      "rating": "3.5",
+      "pieces": 7,
+      "sale": "30% discount",   
+      "ratedProduct": 2000    
+   
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 5",
+      "price": "709",
+      "rating": "4.3",
+      "pieces": 7,
+      "sale": null,     
+      "ratedProduct": 2400    
+ 
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 6",
+      "price": "370",
+      "rating": "3.1",
+      "pieces": 7,
+      "sale": "14% discount",
+      "ratedProduct": 1100    
+      
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 7",
+      "price": "210",
+      "rating": "3.7",
+      "pieces": 3,
+      "sale": "10% discount",      
+      "ratedProduct": 820    
+
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 8",
+      "price": "3299",
+      "rating": "4.6",
+      "pieces": 7,
+      "sale": "10% discount",
+      "ratedProduct": 1000    
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 9",
+      "price": "429",
+      "rating": "3.4",
+      "pieces": 7,
+      "sale": null,     
+      "ratedProduct": 100    
+
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 10",
+      "price": "740",
+      "rating": "3.7",
+      "pieces": 7,
+      "sale": "27% discount",      
+      "ratedProduct": 780    
+
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 11",
+      "price": "999",
+      "rating": "3.8",
+      "pieces": 2,
+      "sale": "10% discount", 
+      "ratedProduct": 400    
+     
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 12",
+      "price": "840",
+      "rating": "3.1",
+      "pieces": 7,
+      "sale": null,   
+      "ratedProduct": 700    
+   
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 13",
+      "price": "640",
+      "rating": "4.8",
+      "pieces": 7,
+      "sale": "17% discount",
+      "ratedProduct": 580      
+    }
+
+  ],
+  "popular": [
+
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "House",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 1",
+      "price": "270",
+      "rating": "3.7",
+      "pieces": 7,
+      "sale": "10% discount",
+      "ratedProduct": 820      
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "Electronics",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 2",
+      "price": "4100",
+      "rating": "4.9",
+      "pieces": 24,
+      "sale": "20% discount",
+      "ratedProduct": 1200      
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "Electronics",
+      "model": "15x3ff",
+      "count": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 3",
+      "price": "170",
+      "rating": "4",
+      "pieces": 24,
+      "sale": "7% discount",
+      "ratedProduct": 200      
+    },
+
+    {
+      "id": "1q72",
+      "company": "Product1",
+      "category": "Accisories",
+      "model": "15x3ff",
+      "count": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmeUrd-5LMiZFa4Cz-pKHzLoXeYejFirMbg&s",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad saepe doloremque eveniet minus quidem mollitia! Ducimus ratione quaerat, alias facilis, dolores doloremque 4",
+      "price": "10",
+      "rating": "3.5",
+      "pieces": 24,
+      "sale": null,
+      "ratedProduct": 1500
+    }
+  ],
+  "new": [
+    {
+
+    }
+  ]
+}

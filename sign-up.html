@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <title>Sign Up</title>
+</head>
+<body>
+    <div class="sign-up-container">
+
+        <div class="shape"></div>
+        <div class="inputs-container">
+            <h1>Sign Up</h1>
+
+            <span>Please Fill Out This Fields</span>
+
+            <form action="" id="signUpForm">
+                <div class="user-name-container">
+                    <label for="userName">User Name</label>
+                    <input type="text" name="userName" id="userName" placeholder="Enter Your Name" required>
+                </div>
+                <div class="user-email-container">
+                    <label for="userEmail">User Email</label>
+                    <input type="text" name="userEmail" id="userEmail" placeholder="Enter Your Email" required>
+                </div>
+                <div class="user-password-container">
+                    <label for="userPassword">User Password</label>
+                    <div class="password">
+                        <input type="password" name="userPassword" id="userPassword" placeholder="Enter Your Password" required>
+                        <span id="showPasswordBtn">u</span>
+                    </div>
+                </div>
+                <div class="submit-btn-container">
+                    <button type="submit" id="signUpBtn">Sign Up</button>
+                </div>
+            </form>
+            
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+
+    <script src="js/sign-up.js"></script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+@import url(main.css);
+
+section {
+    padding-top: 7rem;
+}
+
+.open-menu-btn {
+    padding: 1rem .5rem;
+    background: var(--bg-color-primary);
+    position: fixed;
+    top: 50%;
+    right: 0;
+    border-top-left-radius: .3rem;
+    border-bottom-left-radius: .3rem;
+    border: 2px solid var(--main-color);
+    border-right: none;
+    font-size: 1rem;
+}
+
+.side-options {
+    width: 25%;
+    height: 100%;
+    padding: 1rem;
+    background: var(--bg-color-primary);
+    position: fixed;
+    top: 0;
+    right: -100%;
+    bottom: 0;
+    z-index: 11;
+    padding-top: 3rem;
+}
+
+.side-options h3 {
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+
+.close-side-options-btn {
+    position: absolute;
+    top: 0.5rem ;
+    left: 1rem;
+    font-size: 2rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.side-options.show {
+    right: 0;
+}
+
+.side-options ul li{
+    margin-top: .9rem;
+}
+
+.open-menu-btn:hover {
+    background: var(--main-color);
+    cursor: pointer;
+}
+
+
+
+@media screen and (max-width: 1200px) {
+    .side-options {
+        width: 35%;
+    }    
+}
+
+
+@media screen and (max-width: 950px) {
+    .side-options {
+        width: 40%;
+    }    
+}
+
+
+@media screen and (max-width: 768px) {
+    .side-options {
+        width: 65%;
+    }    
+}
+
+@media screen and (max-width: 420px) {
+    .side-options {
+        width: 80%;
+    }    
+}
