@@ -1239,6 +1239,18 @@ footer {
 }
 
 
+@media screen and (max-width: 564px){
+    .image-container {
+        height: 20vh ;
+    }
+
+    .product-container p {
+        font-size: .8rem;
+    }
+}
+
+
+
 @media screen and (max-width: 450px){
     
     .side-nav {
@@ -1259,6 +1271,17 @@ footer {
     
 .item  p {
     font-size: .9rem;
+}
+
+
+.get-it-tomorrow-order {
+    display: flex;
+    justify-content: start;
+    align-items: start ;
+    flex-direction: column;
+    width: 100%;
+    gap: 1rem;
+    text-align: start;
 }
 
     .product-container .add-to-cart {
